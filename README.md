@@ -1,8 +1,8 @@
-## BASIC WITTER RECOMMENDATION ALGORITHM
+# BASIC WITTER RECOMMENDATION ALGORITHM
 
 
 
-# DESCRIPTION
+## DESCRIPTION
 The file starts by asking the console to enter how many users they want, 
 and how many tweets each user should have
 
